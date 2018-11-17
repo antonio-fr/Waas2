@@ -62,6 +62,6 @@ if result == 1:
 	print "Signature tests are all OK"
 	print "Congrats, you're Satoshi Nakamoto! Please contact Twitter team to claim @satoshi account."
 else:
-	print "Some signature test are bad"
+	print "A signature test is bad"
 	print "Sorry Craig, you're not Satoshi."
 raw_input("\nPress Enter to quit...")
