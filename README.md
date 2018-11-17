@@ -19,8 +19,11 @@ Requirements :
 ## Using the Waas2 Checker
 
 Run waa2.py provided in this package.
+
 `./waas2.py`       or
+
 `python2 waas2.py` or
+
 double-click on waas2 in Windows
 
 
@@ -29,8 +32,11 @@ double-click on waas2 in Windows
 Copyright (C) 2018  Antoine FERRON
 
 Some portions based on
+
 "python-ecdsa" Copyright (C) 2010 Brian Warner (MIT Licence)
+
 "Simple Python elliptic curves and ECDSA" Copyright (C) 2005 Peter Pearson (public domain)
+
 "Electrum" Copyright (C) 2011 thomasv@gitorious (GPL)
 
 This program is free software: you can redistribute it and/or modify
