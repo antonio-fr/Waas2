@@ -5,6 +5,7 @@ Gets a signature from W(aaS)2 service and checks the provided signature
 W(aaS)2 is a service providing random valid signature for the first  Bitcoin coinbase. You can be a real con artist !
 W(aaS)2 endpoint is at api.oxt.me/waas, developed by @laurentMT
 
+![alt text](https://raw.githubusercontent.com/antonio-fr/Waas2/master/waa2screen.png) 
 
 ## Installation
 
