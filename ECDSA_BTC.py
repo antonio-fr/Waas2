@@ -21,7 +21,6 @@
 
 
 import os
-from B58 import *
 import binascii
 import base64
 import struct
